@@ -6,7 +6,7 @@
 
 template<typename T>
 void print(T& v) {
-    for (auto a : v) std::cout << a << " ";
+    for (auto b : v) std::cout << b << " ";
     std::cout << '\n';
 }
 
